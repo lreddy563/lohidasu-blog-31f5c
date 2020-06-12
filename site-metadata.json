@@ -64,13 +64,6 @@
                 "type": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/lreddy563",
-                "type": "link",
-                "icon_class": "facebook",
-                "new_window": false
             }
         ]
     },
