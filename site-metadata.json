@@ -64,6 +64,13 @@
                 "type": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "type": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false
             }
         ]
     },
