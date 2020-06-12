@@ -69,7 +69,7 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/lreddy563",
                 "type": "icon",
-                "icon_class": "facebook",
+                "icon_class": "fa-facebook",
                 "new_window": false
             }
         ]
