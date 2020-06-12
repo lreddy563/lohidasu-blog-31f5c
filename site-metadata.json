@@ -18,13 +18,13 @@
                 "type": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Contact",
+                "url": "/contact/",
                 "type": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
+                "label": "Style Guide",
+                "url": "/style-guide/",
                 "type": "link"
             }
         ],
