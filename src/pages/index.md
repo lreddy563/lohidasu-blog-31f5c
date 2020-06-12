@@ -1,4 +1,4 @@
 ---
-title: From
+title: ''
 template: home
 ---
