@@ -2,7 +2,7 @@
     "description": "A minimal blogging theme for Stackbit",
     "header": {
         "title": "Lohidasu",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "",
         "logo_img": "images/logo.png",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
